@@ -1,7 +1,5 @@
 # Table of Contents
 ## Lectures
-- Introduction to Principle Component Analysis
-
 Principal Component Analysis is a form of dimensionality reduction. It analyses and then exploits the structure of the data and the correlations between the different variables within the data set.
 The key goal of PCA is to achieve a more compact model with lower dimensions without losing vital information in the data set.
 
