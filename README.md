@@ -4,7 +4,7 @@ Principal Component Analysis is a form of dimensionality reduction. It analyses 
 The key goal of PCA is to achieve a more compact model with lower dimensions without losing vital information in the data set. 
 
 <p align="center">
-  <img width="550" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-pca/blob/master/image-ml-calc.png">
+  <img width="590" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-pca/blob/master/image-ml-calc.png">
 </p>
 
 Principal Component Analysis (PCA) is one of the most important dimensionality reduction algorithms in machine learning. In this course, we lay the mathematical foundations to derive and understand PCA from a geometric point of view. In this module, we learn how to summarize datasets (e.g., images) using basic statistics, such as the mean and the variance. We also look at properties of the mean and the variance when we shift or scale the original data set. We will provide mathematical intuition as well as the skills to derive the results. We will also implement our results in code (jupyter notebooks), which will allow us to practice our mathematical understand to compute averages of image data sets.       
