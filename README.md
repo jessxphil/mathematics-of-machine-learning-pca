@@ -7,10 +7,8 @@ Principal Component Analysis (PCA) is one of the most important dimensionality r
 
 
 ## Assignments
-- NumPy Tutorials ([Tut])
+- NumPy ([Tutorial](https://github.com/jessxphil/mathematics-of-machine-learning-pca/blob/master/tutorials/numpy-tutorial.ipynb))
 - Mean/ CoVar of Dataset ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-1.ipynb))
 - Inner Products and Angles ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-2.ipynb))
 - Back Propogation ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-2/i-heart-back-propagation.ipynb))
 - Fitting the Distribution of Heights Data ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-3/fitting-distribution-height-data.ipynb))
-
-
