@@ -1,4 +1,9 @@
 # Table of Contents
+
+NOTE: This repository is for learning purposes only. Please follow the Coursera honor code. I've posted the answers here with the intent that it helps with debugging your own code. I encourage you to utilize the discussion forums available via Coursera and use this repo to understand why your program isn't working as expected. Best of luck!
+
+
+
 ## Lectures
 Principal Component Analysis is a form of dimensionality reduction. It analyses and then exploits the structure of the data and the correlations between the different variables within the data set.
 The key goal of PCA is to achieve a more compact model with lower dimensions without losing vital information in the data set. 
