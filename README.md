@@ -14,7 +14,15 @@ The key goal of PCA is to achieve a more compact model with lower dimensions wit
 
 Principal Component Analysis (PCA) is one of the most important dimensionality reduction algorithms in machine learning. In this course, we lay the mathematical foundations to derive and understand PCA from a geometric point of view. In this module, we learn how to summarize datasets (e.g., images) using basic statistics, such as the mean and the variance. We also look at properties of the mean and the variance when we shift or scale the original data set. We will provide mathematical intuition as well as the skills to derive the results. We will also implement our results in code (jupyter notebooks), which will allow us to practice our mathematical understand to compute averages of image data sets.       
 
+## Objectives
+
 <b>Week 1:</b> Interpret the effects of linear transformations on means and (co)variances. Compute means/variances of linearly transformed data sets. Write code that represents images as vectors and computes basic statistics of datasets. 
+
+<b>Week 2:</b> 
+
+<b>Week 3:</b>
+
+<b>Week 4:</b>
 
 
 ## Assignments
